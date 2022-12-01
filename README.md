@@ -4,7 +4,7 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
-<b>Discipline | <b> Electronic Engineering ..
+<b>Discipline | <b> Electronic Engineering 
 :--|:--|
 <b> Lab | <b> **Digital Electronic Circuits**
 <b> Experiment|     <b> **Analysis-and-Synthesis-of-Boolean-Expressions-using-Basic-Logic-Gates**
