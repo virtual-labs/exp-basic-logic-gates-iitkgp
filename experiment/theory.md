@@ -1,13 +1,8 @@
-### Theory 
+## Theory 
 
-                           
-</div><!-- Write the section content inside a paragraph element, we can also include images with &lt;img&gt; tag -->
+#### Analysis of Logic gates using 7400(quad 2-input NAND gates),7402(quad 2-input NOR gates), 7404(HEX inverter),7408(quad 2-input AND gates),7432(quad 2-input OR gates). Diagrams of each chip are shown in Figure 
 
-<div class="content" id="experiment-article-section-2-content">                            
-                            Analysis of Logic gates using 7400(quad 2-input NAND gates),7402(quad 2-input NOR gates),
-7404(HEX inverter),7408(quad 2-input AND gates),7432(quad 2-input OR gates). Diagrams of each chip are shown in Figure 
-                            <br />
-    <div align="center">
+  <div align="center">
 		<img src="images/7400.jpg"  style="width:400px;height:200px;"/>
                              <br />
                              Figure 1
@@ -30,11 +25,8 @@
                              <br /> 
                              Fig: 3 . 7404(HEX inverter)&nbsp;Fig: 4 . 7432(quad 2-input OR gates)
                              <br />
-                             
-                                
-
-
- </div>
+                  
+  </div>
                             <br />
                             
  <p>(a) AB+<font style="text-decoration:overline">A</font>C+BC=AB+<font style="text-decoration:overline">A</font>C</p>
@@ -72,7 +64,7 @@
                             <p>In the above picture both circuits are equivalent.</p>
                              <br />
                             <p>(d)Verify eqivalence of OR-AND and NOR-NOR structure</p>
-                            
+
 <br />
                             <img src="images/gate7.jpg"  style="width:200px;height:100px;"/>
                               &nbsp;&nbsp;
@@ -83,11 +75,4 @@
                              </div>
                             
                             
-<br /><br />
-                            Student may be asked to wire up the network of gates shown in the above figures.
-                            They can next verify that the output of the two circuits,viz z1 and z2 should 
-                            attain the same value for each of the eight possible input combinations assigned 
-                            to the variables A,B,C,and D. 
-                          
- <br />                            
-                        </div>
+   ###  Student may be asked to wire up the network of gates shown in the above figures.They can next verify that the output of the two circuits,viz z1 and z2 should  attain the same value for each of the eight possible input combinations assigned to the variables A,B,C,and D. 
