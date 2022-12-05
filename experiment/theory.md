@@ -26,9 +26,8 @@
                              Fig: 3 . 7404(HEX inverter)&nbsp;Fig: 4 . 7432(quad 2-input OR gates)
                              <br />
                   
-  </div>
-                            <br />
-                            
+  </div>                           
+                              
  <p>(a) AB+<font style="text-decoration:overline">A</font>C+BC=AB+<font style="text-decoration:overline">A</font>C</p>
                            
 <p> According to consensus theorem,the Boolean identity holds.</p>
@@ -74,4 +73,4 @@
                              <br /> 
                              </div>
                             
-#### Student may be asked to wire up the network of gates shown in the above figures.They can next verify that the output of the two circuits,viz z1 and z2 should attain the same value for each of the eight possible input combinations assigned to the variables A,B,C,and D. 
+ Student may be asked to wire up the network of gates shown in the above figures.They can next verify that the output of the two circuits,viz z1 and z2 should attain the same value for each of the eight possible input combinations assigned to the variables A,B,C,and D. 
