@@ -65,8 +65,8 @@
                              <br />
                             <p>(d)Verify eqivalence of OR-AND and NOR-NOR structure</p>
 
-<br />
-                            <img src="images/gate7.jpg"  style="width:200px;height:100px;"/>
+
+  <img src="images/gate7.jpg"  style="width:200px;height:100px;"/>
                               &nbsp;&nbsp;
                             <img src="images/gate8.jpg"  style="width:200px;height:100px;"/>
                              <br />
@@ -74,5 +74,4 @@
                              <br /> 
                              </div>
                             
-                            
-   ###  Student may be asked to wire up the network of gates shown in the above figures.They can next verify that the output of the two circuits,viz z1 and z2 should  attain the same value for each of the eight possible input combinations assigned to the variables A,B,C,and D. 
+#### Student may be asked to wire up the network of gates shown in the above figures.They can next verify that the output of the two circuits,viz z1 and z2 should attain the same value for each of the eight possible input combinations assigned to the variables A,B,C,and D. 
