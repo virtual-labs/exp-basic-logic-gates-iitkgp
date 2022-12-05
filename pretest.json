@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "TTL operates from __?",
+      "answers": {
+        "a": "9v",
+        "b": "5v",
+        "c": "12v",
+        "d": "3v"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The output of a NOR gate is HIGH if?",
+      "answers": {
+        "a": "all inputs are HIGH",
+        "b": "all inputs are LOW",
+        "c": "any input is HIGH",
+        "d": "any input is LOW"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What does the small bubble on the output of the NAND gate logic symbol mean?",
+      "answers": {
+        "a": "open collector output",
+        "b": "tristate",
+        "c": "The output is inverted",
+        "d": "none of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
