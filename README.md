@@ -4,7 +4,7 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
-<b>Discipline | <b> Electronic Engineering ..
+<b>Discipline | <b> Electronic Engineering 
 :--|:--|
 <b> Lab | <b> **Digital Electronic Circuits**
 <b> Experiment|     <b> **Analysis-and-Synthesis-of-Boolean-Expressions-using-Basic-Logic-Gates**
@@ -39,7 +39,7 @@
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
-1 | **Ramesh Ghosh** |Integration Engineer | senior project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
+1 | **Ramesh Ghosh** |Integration Engineer | Senior project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
 2 | **Sukriti Dhang** | Developer Engineer | Senior project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
 3 | **Prakriti Dhang** |Developer Engineer  | Project Staff Technical | Department of Mechanical Engineering | IIT Kharagpur | 
 4 | **Chandan Mishra** |Integration Engineer | Senior Project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
