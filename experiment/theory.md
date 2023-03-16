@@ -7,13 +7,14 @@
                             <p>
                              Figure 1</p>
                             </div>
-                          <div align="center">
+
+  <div align="center">
                              <img src="images/7402.jpg"  style="width:400px;height:200px;"/>
                              <p>
                              Figure 2
                              </p>
                              </div>
-                              <div align="center">
+<div align="center">
                              <img src="images/7404.jpg"  style="width:400px;height:200px;"/>
                            <p>
                              Figure 3
@@ -27,7 +28,7 @@
                              Fig: 3 . 7404(HEX inverter)Fig: 4 . 7432(quad 2-input OR gates)
                              </p>
                              </div>
-                              <div align="center">
+                             
                   
                      
                               
@@ -43,7 +44,7 @@ According to consensus theorem,the Boolean identity holds.
                             <img src="images/gate2.jpg"  style="width:200px;height:100px;"/>
                             <br />
                            <p>In the above picture both circuits are equivalent.</p>
-                           <br />
+                          </div>
                            
 <p>(b) AB+<font style="text-decoration:overline">A</font>C=(A+C)(<font style="text-decoration:overline">A</font>+B)</p> 
                              

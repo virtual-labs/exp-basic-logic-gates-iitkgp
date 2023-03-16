@@ -1,6 +1,6 @@
 
 
-# People
+## People
 
 <div align="center">
 <img src="images/iitkgp.png" width="10%">
@@ -11,7 +11,7 @@
 <b> Lab | <b> **Digital Electronic Circuits**
 <b> Experiment|     <b> **Analysis and Synthesis of Boolean Expressions using Basic Logic Gates**
 
-### Subject Matter Experts
+#### Subject Matter Experts
 <b>Name of Developer | <b> **Prof. Gautam Saha**
 :--|:--|
 <b> Institute | <b>  **Indian Institute of Technology Kharagpur**
@@ -32,7 +32,7 @@
 <b> Email id|     <b>  **achintya@ece.iitkgp.ac.in **
 <b> Department |  **Electronics & Electrical Communication Engineering**
 
-### Developers
+#### Developers
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
 1 | **Ramesh Ghosh** |Integration Engineer | Senior project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
