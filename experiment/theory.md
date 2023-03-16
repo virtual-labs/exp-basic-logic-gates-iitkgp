@@ -1,37 +1,39 @@
 ## Theory 
 
-#### Analysis of Logic gates using 7400(quad 2-input NAND gates),7402(quad 2-input NOR gates), 7404(HEX inverter),7408(quad 2-input AND gates),7432(quad 2-input OR gates). Diagrams of each chip are shown in Figure 
+ Analysis of Logic gates using 7400(quad 2-input NAND gates),7402(quad 2-input NOR gates), 7404(HEX inverter),7408(quad 2-input AND gates),7432(quad 2-input OR gates). Diagrams of each chip are shown in Figure 
 
   <div align="center">
 		<img src="images/7400.jpg"  style="width:400px;height:200px;"/>
-                             <br />
-                             Figure 1
-                            <br /><br />
+                            <p>
+                             Figure 1</p>
+                            </div>
+                          <div align="center">
                              <img src="images/7402.jpg"  style="width:400px;height:200px;"/>
-                             <br />
+                             <p>
                              Figure 2
-                             <br />
-                             <br />
+                             </p>
+                             </div>
+                              <div align="center">
                              <img src="images/7404.jpg"  style="width:400px;height:200px;"/>
-                             <br />
+                           <p>
                              Figure 3
-                              <br />
-                             <br />
+                              </p>
+                             </div>
+                              <div align="center">
                              <img src="images/7432.jpg"  style="width:400px;height:200px;"/>
-                             <br />
+                             <p>
                              Figure 4
-                             <br />
-                             Fig: 1 . 7400(quad 2 input NAND gates)&nbsp;Fig: 2 . 7402 (quad 2 input NOR gates)
-                             <br /> 
-                             Fig: 3 . 7404(HEX inverter)&nbsp;Fig: 4 . 7432(quad 2-input OR gates)
-                             <br />
+                             Fig: 1 . 7400(quad 2 input NAND gates) Fig: 2 . 7402 (quad 2 input NOR gates)
+                             Fig: 3 . 7404(HEX inverter)Fig: 4 . 7432(quad 2-input OR gates)
+                             </p>
+                             </div>
+                              <div align="center">
                   
-  </div>                           
+                     
                               
- <p>(a) AB+<font style="text-decoration:overline">A</font>C+BC=AB+<font style="text-decoration:overline">A</font>C</p>
+(a) AB+<font style="text-decoration:overline">A</font>C+BC=AB+<font style="text-decoration:overline">A</font>C
                            
-<p> According to consensus theorem,the Boolean identity holds.</p>
-                           <br />
+According to consensus theorem,the Boolean identity holds.
                            
                            
                             
@@ -45,9 +47,10 @@
                            
 <p>(b) AB+<font style="text-decoration:overline">A</font>C=(A+C)(<font style="text-decoration:overline">A</font>+B)</p> 
                              
- <p> According to consensus theorem,the Boolean identity holds.</p>
-                           <br />
+
+According to consensus theorem,the Boolean identity holds.
                            
+ <div align="left">                          
 <img src="images/gate3.jpg"  style="width:200px;height:100px;"/>
                               &nbsp;&nbsp;
                             <img src="images/gate4.jpg"  style="width:200px;height:100px;"/> 
@@ -64,7 +67,8 @@
                              <br />
                             <p>(d)Verify eqivalence of OR-AND and NOR-NOR structure</p>
 
-
+</div>
+<div align="left"> 
   <img src="images/gate7.jpg"  style="width:200px;height:100px;"/>
                               &nbsp;&nbsp;
                             <img src="images/gate8.jpg"  style="width:200px;height:100px;"/>
