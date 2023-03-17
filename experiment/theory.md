@@ -1,3 +1,14 @@
+## Introduction
+
+**About the Experiment**
+
+This experiment enables a student to learn
+- How to analyze logic gates
+- How to express Boolean expression using logic gates
+- How to check equivalence of two Boolean expressions using logic gates
+- How to check equivalence of two logic circuits consisiting of multiple gates
+
+
 ## Theory 
 
  Analysis of Logic gates using 7400(quad 2-input NAND gates),7402(quad 2-input NOR gates), 7404(HEX inverter),7408(quad 2-input AND gates),7432(quad 2-input OR gates). Diagrams of each chip are shown in Figure 
